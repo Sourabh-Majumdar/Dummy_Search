@@ -1,0 +1,108 @@
+all :-> 14 
+celebrities :-> 3 
+movies, :-> 3 
+including :-> 15 
+kindle, :-> 15 
+frequently. :-> 1 12 16 17 
+best-sellers :-> 15 
+tv :-> 1 3 12 16 17 
+https://images-na.ssl-images-amazon.com/images/g/01/imdb/images/logos/imdb_fb_logo-1730868325._cb282921960_.png :-> 0 4 8 9 19 
+0w9j3ed9yrwxrdmvfh2h :-> 4 
+source :-> 3 
+other :-> 15 
+samples :-> 14 
+device. :-> 15 
+main :-> 3 
+updated :-> 1 12 16 17 
+photography :-> 14 
+largest :-> 14 
+#000000 :-> 0 1 3 4 8 9 12 16 17 19 
+auth :-> 0 4 8 9 19 
+app-argument=imdb:///?src=mdot :-> 0 1 3 4 8 9 12 16 17 19 
+game :-> 1 12 16 17 
+android, :-> 15 
+listening :-> 15 
+vast :-> 14 
+http://ia.media-imdb.com/images/g/01/imdb/images/logos/imdb_fb_logo-1730868325._cb282921960_.png :-> 3 
+signinopts :-> 0 4 8 9 19 
+iphone, :-> 15 
+popular :-> 3 
+celebrity :-> 1 3 12 16 17 
+polls :-> 1 12 16 17 
+people :-> 1 12 16 17 
+sign :-> 0 4 8 9 19 
+see :-> 1 12 16 17 
+titles :-> 15 
+are :-> 1 12 16 17 
+download :-> 15 
+home :-> 3 
+width=device-width :-> 13 
+what :-> 1 12 16 17 
+for :-> 3 
+0; :-> 11 
+new :-> 15 
+think! :-> 1 12 16 17 
+tv, :-> 1 12 16 17 
+imaging :-> 14 
+charset=%soup-encoding% :-> 13 15 
+of :-> 14 
+1gdz7ncapsygtewgchx3 :-> 19 
+audiobook :-> 15 
+audible :-> 15 
+app-id=342792525, :-> 0 1 3 4 8 9 12 16 17 19 
+specifications. :-> 14 
+or :-> 1 12 15 16 17 
+own :-> 1 12 16 17 
+lively :-> 14 
+150,000+ :-> 15 
+poll :-> 1 12 16 17 
+your :-> 1 12 15 16 17 
+to :-> 15 
+create :-> 1 12 16 17 
+http://ia.media-imdb.com/images/m/mv5bmtgwote3mjuwmf5bml5bcg5nxkftztgwmtq5njgwmde@.jpg :-> 1 12 16 17 
+world's :-> 3 
+movie, :-> 1 3 12 16 17 
+camera :-> 14 
+poll. :-> 1 12 16 17 
+review: :-> 14 
+text/html; :-> 13 15 
+more :-> 1 12 16 17 
+releases. :-> 15 
+with :-> 0 4 8 9 19 
+has :-> 15 
+imdb, :-> 3 
+default :-> 11 
+forums. :-> 14 
+reviews :-> 14 
+http://www.imdb.com/poll/?start=1&omittaken=false :-> 1 12 16 17 
+ie=edge :-> 0 1 3 4 8 9 12 16 17 19 
+ie=edge,chrome=1 :-> 13 
+and :-> 1 3 12 14 15 16 17 
+115109575169727 :-> 0 1 3 4 8 9 12 16 17 19 
+https://www.imdb.com/registration/signin :-> 0 4 8 9 19 
+galleries :-> 14 
+imdb :-> 0 1 3 4 8 9 12 16 17 19 
+audiobooks :-> 15 
+in :-> 0 4 8 9 19 
+authoritative :-> 3 
+discussion :-> 14 
+- :-> 0 1 3 4 8 9 12 16 17 19 
+http://www.imdb.com/ :-> 3 
+07p5vyzqz4ngw0psqs7z :-> 9 
+take :-> 1 12 16 17 
+digital :-> 14 
+t9sobiylv8mxqtdiwme0rkufwdv843jgfksmdoou804 :-> 15 
+url=/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https%3a%2f%2fwww.facebook.com%2fsharer.php%3fu%3dhttp%253a%252f%252fwww.imdb.com%252fpoll%252f&cancel_url=https%3a%2f%2fwww.facebook.com%2fdialog%2freturn%2fclose%3ferror_code%3d4201%26error_message%3duser%2bcanceled%2bthe%2bdialog%2bflow%23_%3d_&display=popup&locale=mr_in&_fb_noscript=1 :-> 11 
+content. :-> 3 
+1egww5msfawkhptcd5p5 :-> 8 
+0djc02pbwyp1r7rrbxpc :-> 0 
+most :-> 3 
+1kpkghn71qeya1f4dzgc :-> 3 
+2e3ae06e6b922a1b04bcc9894c5996a5 :-> 15 
+movies,films,movie :-> 3 
+database :-> 14 
+daily :-> 1 12 16 17 
+database,actors,actresses,directors,hollywood,stars,quotes :-> 3 
+the :-> 1 3 12 14 16 17 
+news. :-> 14 
+latest :-> 1 12 14 16 17 

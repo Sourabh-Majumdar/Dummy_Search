@@ -1,0 +1,1 @@
+This project initially started as a personalized web search for news but now I give it the ability to scrap only for a particular stuff.
